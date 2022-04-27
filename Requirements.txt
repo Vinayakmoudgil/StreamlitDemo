@@ -1,0 +1,6 @@
+You would need to install the below libraries to start the App on MAC OS
+sudo easy_install pip
+pip install streamlit
+TO Test: streamlit hello
+Or you can follow the below link for installation: 
+https://docs.streamlit.io/library/get-started/installation
