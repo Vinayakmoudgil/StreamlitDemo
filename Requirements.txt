@@ -1,4 +1,4 @@
-You would need to install the below libraries to start the App on MAC OS
+You would need to install the below libraries to start this App on MAC OS
 sudo easy_install pip
 pip install streamlit
 TO Test: streamlit hello
